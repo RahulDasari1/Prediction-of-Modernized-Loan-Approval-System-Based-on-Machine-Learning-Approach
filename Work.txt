@@ -1,0 +1,34 @@
+Service Provider
+
+Login,
+Browse Bank DataSets and Train & Test, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View All Loan Approval Prediction, 
+Find Loan Approval Prediction Type Ratio, 
+View Loan Approval Prediction Ratio Results, 
+Download Predicted Data Sets, 
+View All Remote Users.
+
+
+Remote User
+
+REGISTER AND LOGIN,
+PREDICT LOAN APPROVAL STATUS, 
+VIEW YOUR PROFILE.
+
+Members
+
+Loan_ID,
+Gender,
+Married,
+Dependents,
+Education,
+Self_Employed,
+ApplicantIncome,
+CoapplicantIncome,
+LoanAmount,
+Loan_Amount_Term,
+Credit_History,
+Property_Area,
+Prediction.
